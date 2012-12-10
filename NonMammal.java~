@@ -1,0 +1,5 @@
+public interface NonMammal{
+	
+	public void reproduce();
+}
+	
